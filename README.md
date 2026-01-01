@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I’m Sai Nandan 👋
 
-<!--
-**sainandan-mn/sainandan-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an engineering graduate with a strong foundation in cloud computing, data analytics, and automation. I have hands-on experience with Python, SQL, Linux, and cloud fundamentals, and I enjoy building reliable, scalable solutions through practical, real-world learning.
 
-Here are some ideas to get you started:
+I’m currently focused on growing in DevOps, cloud infrastructure, and data-driven systems, while preparing for entry-level roles where I can contribute meaningfully, learn fast, and grow consistently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+🛠 Skills
+	•	Programming: Python, SQL
+	•	Cloud & DevOps: AWS (EC2, IAM, S3), Linux, Git
+	•	Data & Analytics: Data analysis, EDA, dashboards
+	•	Core Strengths: Problem-solving, documentation, collaboration
+
+⸻
+
+🎯 Current Focus
+	•	Strengthening cloud and infrastructure fundamentals
+	•	Building real-world, hands-on projects
+	•	Preparing for roles in Cloud / DevOps / Data Engineering
+
+⸻
+
+📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/sai-nandan-mn/
+Email: sainandan2.mn@gmail.com
+
+⸻
+
+⭐ Personal Philosophy
+
+“Consistency beats intensity. I focus on building skills that last.”
+
+⸻
