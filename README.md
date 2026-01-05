@@ -17,7 +17,7 @@ I’m currently focused on growing in DevOps, cloud infrastructure, and data-dri
 🎯 Current Focus
 	•	Strengthening cloud and infrastructure fundamentals
 	•	Building real-world, hands-on projects
-	•	Preparing for roles in Cloud / DevOps / Data Engineering
+	•	Preparing for roles in Cloud / DevOps 
 
 ⸻
 
