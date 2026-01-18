@@ -1,8 +1,9 @@
 # Sai Nandan
 
-I am an engineering graduate with a strong interest in cloud infrastructure, DevOps, and system reliability. I focus on learning through hands-on implementation and ownership of real-world projects, with an emphasis on building systems that are reliable, maintainable, and well-documented.
+I approach engineering with a strong emphasis on clarity, ownership, and system thinking. Instead of treating tools as isolated pieces, I focus on understanding how components interact across the full lifecycle — from configuration and execution to validation and deployment.
 
-I have practical experience working with Linux-based environments, cloud fundamentals, automation, and data analytics. I am currently preparing for entry-level roles where I can support cloud and DevOps teams, contribute to day-to-day operations, and continue developing my technical depth under experienced mentorship.
+My learning style is project-based: I build small, production-style systems that reflect real-world engineering problems and evolve them step by step.
+
 
 ---
 
@@ -17,9 +18,7 @@ I have practical experience working with Linux-based environments, cloud fundame
 - AWS (EC2, IAM, S3)  
 - Linux  
 - Git  
-- Cron  
-- Docker  
-- Kubernetes  
+- Cron    
 
 **Data & Analytics**
 - Data analysis  
