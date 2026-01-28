@@ -37,7 +37,6 @@ My learning style is project-based: I build small, production-style systems that
 
 - Building and automating cloud infrastructure workflows  
 - Strengthening Linux and system administration fundamentals  
-- Developing hands-on DevOps and reliability-focused projects  
 - Preparing for entry-level Cloud / Infrastructure roles  
 
 ---
