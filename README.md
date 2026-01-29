@@ -44,7 +44,7 @@ My learning style is project-based: I build small, production-style systems that
 ## Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/sai-nandan-mn  
-- **Email:** sainandan.mn4@gmail.com  
+- **Email:** sainandan3.mn@gmail.com  
 
 ---
 
