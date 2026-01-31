@@ -14,8 +14,8 @@ My learning style is project-based: I build small, production-style systems that
 - SQL  
 - Bash  
 
-**Cloud & DevOps**
-- AWS (EC2, IAM, S3)  
+**Cloud**
+- AWS (EC2, IAM, S3,cloud watch, lambda)  
 - Linux  
 - Git  
 - Cron    
