@@ -1,9 +1,8 @@
 # Sai Nandan
 
-I build and automate reliable cloud systems on AWS with a focus on monitoring, failure detection, and automated recovery. My work centers on understanding how infrastructure behaves in real-world conditions and designing systems that surface issues early and fix them with minimal human intervention.
+I build automation-driven systems that improve the reliability, performance, and visibility of software in real-world environments. My work sits at the intersection of Python engineering, Linux systems, and cloud infrastructure, where code is used to monitor, control, and improve how systems behave in production.
 
-My learning and development style is project-driven. I design small, production-style systems that simulate real operational challenges such as service downtime, cost leakage, and visibility gaps, then evolve them using AWS-native tools and Linux-based automation.
-
+My approach is project-based and iterative. I design small, production-style systems that simulate real engineering challenges such as service failures, performance bottlenecks, and cloud cost leakage, then evolve them using clean code, observability, and automation.
 
 ---
 
