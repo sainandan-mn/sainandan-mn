@@ -1,8 +1,8 @@
 # Sai Nandan
 
-I approach engineering with a strong emphasis on clarity, ownership, and system thinking. Instead of treating tools as isolated pieces, I focus on understanding how components interact across the full lifecycle — from configuration and execution to validation and deployment.
+I build and automate reliable cloud systems on AWS with a focus on monitoring, failure detection, and automated recovery. My work centers on understanding how infrastructure behaves in real-world conditions and designing systems that surface issues early and fix them with minimal human intervention.
 
-My learning style is project-based: I build small, production-style systems that reflect real-world engineering problems and evolve them step by step.
+My learning and development style is project-driven. I design small, production-style systems that simulate real operational challenges such as service downtime, cost leakage, and visibility gaps, then evolve them using AWS-native tools and Linux-based automation.
 
 
 ---
